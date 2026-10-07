@@ -17,6 +17,7 @@ wheels/
 .env
 .env.*
 !.env.example
+.streamlit/secrets.toml
 
 # 실습용 스크린샷 등 잡파일
 *.png
